@@ -1,0 +1,7 @@
+asyncio-mqtt
+paho-mqtt
+python-dotenv
+numpy
+sphinx
+sphinx-rtd-theme
+sphinx-autodoc-typehints

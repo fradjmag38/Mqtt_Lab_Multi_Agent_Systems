@@ -1,0 +1,12 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Sphinx build
+docs/_build/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
